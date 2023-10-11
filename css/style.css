@@ -5,7 +5,7 @@
 }
 
 .nav-list li.active a::before {
-    content: '▶';   
+    
     position: absolute;
     left: -20px;    
     top: 50%;
